@@ -32,5 +32,6 @@
 
 ### Steps to run
 clone project
+copy .envexample and create .env file
 
 run the project using php artisan serve , npm run dev
